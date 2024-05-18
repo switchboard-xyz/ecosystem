@@ -1,3 +1,7 @@
+<a href="https://switchboard.xyz">
+	<img width="100%" src="./.assets/banner.png" />
+</a>
+
 # Switchboard Ecosystem
 
 Welcome to the Switchboard Ecosystem repository! This repository serves as a central hub to highlight projects who leverage Switchboard's permissionless oracle protocol.
