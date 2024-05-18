@@ -1,2 +1,15 @@
-# ecosystem
-Metadata repository for projects who use Switchboard. Contribute to the ecosystem by adding and updating project information.
+# Switchboard Ecosystem
+
+Welcome to the Switchboard Ecosystem repository! This repository serves as a central hub to highlight projects who leverage Switchboard's permissionless oracle protocol.
+
+## About Switchboard
+
+TODO: Blurb about SB
+
+## Contributing
+
+We welcome contributions from the community! If you know of a project using Switchboard or if you're a project developer yourself, please help us by adding or updating the relevant metadata.
+
+### How to Contribute
+
+TODO: How to contribute
