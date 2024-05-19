@@ -1,9 +1,8 @@
 ---
-name: Request Update
+name: Project Update Request
 about: Use this template to request an update to the metadata of a project that uses Switchboard.
 title: "[Project Metadata Update] Add/Update Project: <Project Name>"
-labels: update, metadata
-assignees: ""
+assignees: "jessupjn"
 ---
 
 ## Project Metadata Update
@@ -11,30 +10,33 @@ assignees: ""
 ### Project Information
 
 **Project Name:**  
-<Provide the name of the project.>
+<The name of the project.>
 
-**Project Description:**  
-<Provide a brief description of the project.>
+**Project Brief:**  
+<The one-line summary of the project.>
 
-**Use Case:**  
-<Explain how the project uses Switchboard.>
+**Image:**  
+<Attach the project image to this issue.>
+_Please format the image properly - a 100x100 JPG._
 
 **Website:**  
-<Provide the URL to the project's website.>
+<URL to the project's website.>
 
-**Twitter:**  
-<Provide the URL to the project's Twitter profile.>
+**X (formerly Twitter):**  
+<URL to the project's X (formerly Twitter) profile.>
 
 **GitHub:**  
-<Provide the URL to the project's GitHub repository.>
+<URL to the project's Github profile.>
+
+**Telegram:**  
+<URL to the project's Telegram channel.>
+
+**GitHub:**  
+<URL to the project's Discord channel invite.>
 
 ### Additional Information
 
-**Contact Email:**  
-<Optional: Provide an email address for further contact.>
-
-**Other Links:**  
-<Optional: Provide any other relevant links.>
+<Provide any additional information / questions.>
 
 ### Change Request
 
@@ -44,7 +46,7 @@ assignees: ""
 - [ ] Update to an existing entry
 
 **If updating, what is the current name of the project in the repository?**  
-<Provide the existing project name if applicable.>
+<Provide a link to the project's existing metadata file (if applicable).>
 
 ### Checklist
 
