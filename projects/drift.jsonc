@@ -1,0 +1,11 @@
+{
+  "date": "2024-05-20",
+  "name": "Drift Protocol",
+  "brief": "Drift brings on-chain, cross-margined perpetual swaps to Solana.",
+  "img": "img/drift.jpg",
+  "website": "https://www.drift.trade",
+  "x": "https://twitter.com/driftprotocol",
+  "github": "https://github.com/drift-labs",
+  // comments and trailing commas can be used in jsonc content.
+  "discord": "https://discord.com/invite/fMcZBH8ErM",
+}
