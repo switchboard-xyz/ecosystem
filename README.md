@@ -10,7 +10,7 @@ This repository is the data source for the Switchboard Ecosystem page, located a
 
 ## About Switchboard
 
-TODO: Blurb about SB
+Switchboard is a multichain, permissionless oracle network connecting decentralized applications to real-world data across 10+ blockchains. Our cutting-edge technology brings any data source on-chain, offering customizable feeds, verifiable randomness, and secure storage. Secured by Trusted Execution Environments (TEEs), Switchboard ensures reliable and secure data delivery. With our all-in-one interface, developers can easily create, manage, and monitor data feeds.
 
 ## Contributing Guide
 
