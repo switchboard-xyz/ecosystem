@@ -5,7 +5,7 @@
   "author": "Switchboard Maintainers <jack@switchboard.xyz>",
   "type": "module",
   "scripts": {
-    "preinstall": "npx only-allow bun && pnpm sort-package-json",
+    "preinstall": "npx only-allow bun && bun sort-package-json",
     "sort-package-json": "sort-package-json ./package.json"
   },
   "dependencies": {
