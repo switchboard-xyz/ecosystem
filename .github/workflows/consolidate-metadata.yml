@@ -18,3 +18,14 @@ jobs:
 
       - name: Install dependencies
         run: bun install
+
+      - name: Compile project list
+        run: bun run .compiled/compile.js
+
+      - name: Commit consolidated JSON
+        run: |
+          git config --global user.name 'MrEnclave[bot]'
+          git config --global user.email 'MrEnclave[bot]@noreply.switchboard.xyz'
+          git add .
+          git commit -m 'Mr. Enclave compiles project data.'
+          git push
