@@ -20,6 +20,15 @@
     "discord": "https://discord.gg/lulo"
   },
   {
+    "date": "2024-05-24",
+    "name": "Rain.fi",
+    "brief": "Borrow, lend and long tokens and NFTs in the simplest way. No price liquidations.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/rainfi.jpg",
+    "website": "https://rain.fi/",
+    "x": "https://x.com/RainFi_",
+    "discord": "https://discord.gg/rainfi"
+  },
+  {
     "date": "2024-05-23",
     "name": "AllDomains",
     "brief": "The web3 identity asset layer to create and trade web3 domains",
