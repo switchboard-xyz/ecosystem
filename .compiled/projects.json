@@ -1,0 +1,111 @@
+[
+  {
+    "date": "2024-05-22",
+    "name": "Kamino",
+    "brief": "Automated concentrated liquidity (CLMM) position management.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/kamino.jpg",
+    "website": "https://kamino.finance/",
+    "x": "https://x.com/KaminoFinance",
+    "github": "https://github.com/Kamino-Finance",
+    "discord": "https://discord.com/invite/kaminofinance"
+  },
+  {
+    "date": "2024-05-23",
+    "name": "Lulo",
+    "brief": "Your DeFi Savings Account.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/lulo.jpg",
+    "website": "https://lulo.fi/",
+    "x": "https://x.com/uselulo",
+    "github": "https://github.com/lulo-labs",
+    "discord": "https://discord.gg/lulo"
+  },
+  {
+    "date": "2024-05-24",
+    "name": "Rain.fi",
+    "brief": "Borrow, lend and long tokens and NFTs in the simplest way. No price liquidations.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/rainfi.jpg",
+    "website": "https://rain.fi/",
+    "x": "https://x.com/RainFi_",
+    "discord": "https://discord.gg/rainfi"
+  },
+  {
+    "date": "2024-05-23",
+    "name": "AllDomains",
+    "brief": "The web3 identity asset layer to create and trade web3 domains",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/alldomains.jpg",
+    "website": "https://alldomains.id/",
+    "x": "https://x.com/AllDomains_",
+    "github": "https://github.com/onsol-labs",
+    "discord": "https://discord.gg/Rcrqhs7Bja"
+  },
+  {
+    "date": "2024-05-22",
+    "name": "GooseFX",
+    "brief": "A Complete DeFi Experience.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/goosefx.jpg",
+    "website": "https://goosefx.io/",
+    "x": "https://x.com/GooseFX1",
+    "github": "https://github.com/GooseFX1",
+    "discord": "https://discord.com/invite/cDEPXpY26q"
+  },
+  {
+    "date": "2024-05-22",
+    "name": "Solend",
+    "brief": "Solend is the autonomous interest rate machine for lending on Solana.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/solend.jpg",
+    "website": "https://solend.fi",
+    "x": "https://x.com/solendprotocol",
+    "github": "https://github.com/solendprotocol",
+    "discord": "https://discord.gg/solend"
+  },
+  {
+    "date": "2024-05-22",
+    "name": "Hubble Protocol",
+    "brief": "Borrowing platform that issues the USDH stablecoin against your crypto assets.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/hubble.jpg",
+    "website": "https://hubbleprotocol.io/",
+    "x": "https://x.com/hubbleprotocol",
+    "github": "https://github.com/hubbleprotocol/",
+    "discord": "https://discord.gg/MGujjftKTY"
+  },
+  {
+    "date": "2024-05-22",
+    "name": "Marginfi",
+    "brief": "The liquidity layer for Solana.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/marginfi.jpg",
+    "website": "https://www.marginfi.com/",
+    "x": "https://x.com/marginfi",
+    "github": "https://github.com/mrgnlabs/",
+    "discord": "https://discord.gg/mrgn"
+  },
+  {
+    "date": "2024-05-23",
+    "name": "Symmetry",
+    "brief": "On-chain asset management infrastructure",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/symmetry.jpeg",
+    "website": "https://symmetry.fi/",
+    "x": "https://x.com/symmetry_fi",
+    "github": "https://github.com/symmetry-protocol",
+    "discord": "https://discord.symmetry.fi"
+  },
+  {
+    "date": "2024-05-20",
+    "name": "Drift Protocol",
+    "brief": "Drift brings on-chain, cross-margined perpetual swaps to Solana.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/drift.jpg",
+    "website": "https://www.drift.trade",
+    "x": "https://x.com/driftprotocol",
+    "github": "https://github.com/drift-labs",
+    "discord": "https://discord.com/invite/fMcZBH8ErM"
+  },
+  {
+    "date": "2024-05-22",
+    "name": "Mango Markets",
+    "brief": "Lend, borrow, swap, and leverage-trade crypto assets - permissionless and all on-chain.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/mango.jpg",
+    "website": "https://mango.markets/",
+    "x": "https://x.com/mangomarkets",
+    "github": "https://github.com/blockworks-foundation/",
+    "discord": "https://discord.com/invite/mangomarkets"
+  }
+]
