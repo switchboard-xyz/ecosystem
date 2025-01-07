@@ -6,7 +6,7 @@
 
 Welcome to the Switchboard Ecosystem repository!
 
-This repository is the data source for the Switchboard Ecosystem page, located at switchboard.xyz/ecosystem.
+This repository is the data source for the Switchboard Ecosystem page, located at [switchboard.xyz/ecosystem](https://switchboard.xyz/ecosystem).
 
 ## About Switchboard
 
