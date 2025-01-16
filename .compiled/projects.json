@@ -69,6 +69,17 @@
     "discord": "https://discord.symmetry.fi"
   },
   {
+    "date": "2025-01-16",
+    "name": "Carrot",
+    "brief": "A liquid yield token that maximizes stablecoin yield, while managing risk across Solana's DeFi ecosystem.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/carrot.jpg",
+    "website": "https://use.deficarrot.com/",
+    "x": "https://x.com/DeFiCarrot",
+    "github": "https://github.com/DeFi-Carrot",
+    "telegram": "https://t.me/deficarrot",
+    "discord": "https://discord.gg/defi-carrot"
+  },
+  {
     "date": "2024-05-22",
     "name": "Marginfi",
     "brief": "The liquidity layer for Solana.",
