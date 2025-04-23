@@ -7,7 +7,18 @@
     "website": "https://save.finance",
     "x": "https://x.com/solendprotocol",
     "github": "https://github.com/solendprotocol",
-    "discord": "https://discord.gg/solend"
+    "discord": "https://discord.gg/solend",
+    "hidden": false
+  },
+  {
+    "date": "2024-05-24",
+    "name": "Rain.fi",
+    "brief": "Borrow, lend and long tokens and NFTs in the simplest way. No price liquidations.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/rainfi.jpg",
+    "website": "https://rain.fi/",
+    "x": "https://x.com/RainFi_",
+    "discord": "https://discord.gg/rainfi",
+    "hidden": false
   },
   {
     "date": "2024-05-22",
@@ -17,26 +28,8 @@
     "website": "https://hubbleprotocol.io/",
     "x": "https://x.com/hubbleprotocol",
     "github": "https://github.com/hubbleprotocol/",
-    "discord": "https://discord.gg/MGujjftKTY"
-  },
-  {
-    "date": "2024-05-22",
-    "name": "GooseFX",
-    "brief": "A Complete DeFi Experience.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/goosefx.jpg",
-    "website": "https://goosefx.io/",
-    "x": "https://x.com/GooseFX1",
-    "github": "https://github.com/GooseFX1",
-    "discord": "https://discord.com/invite/cDEPXpY26q"
-  },
-  {
-    "date": "2024-05-24",
-    "name": "Rain.fi",
-    "brief": "Borrow, lend and long tokens and NFTs in the simplest way. No price liquidations.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/rainfi.jpg",
-    "website": "https://rain.fi/",
-    "x": "https://x.com/RainFi_",
-    "discord": "https://discord.gg/rainfi"
+    "discord": "https://discord.gg/MGujjftKTY",
+    "hidden": false
   },
   {
     "date": "2024-05-20",
@@ -46,27 +39,19 @@
     "website": "https://www.drift.trade",
     "x": "https://x.com/driftprotocol",
     "github": "https://github.com/drift-labs",
-    "discord": "https://discord.com/invite/fMcZBH8ErM"
-  },
-  {
-    "date": "2024-05-22",
-    "name": "Mango Markets",
-    "brief": "Lend, borrow, swap, and leverage-trade crypto assets - permissionless and all on-chain.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/mango.jpg",
-    "website": "https://mango.markets/",
-    "x": "https://x.com/mangomarkets",
-    "github": "https://github.com/blockworks-foundation/",
-    "discord": "https://discord.com/invite/mangomarkets"
+    "discord": "https://discord.com/invite/fMcZBH8ErM",
+    "hidden": false
   },
   {
     "date": "2024-05-23",
-    "name": "Symmetry",
-    "brief": "On-chain asset management infrastructure",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/symmetry.jpeg",
-    "website": "https://symmetry.fi/",
-    "x": "https://x.com/symmetry_fi",
-    "github": "https://github.com/symmetry-protocol",
-    "discord": "https://discord.symmetry.fi"
+    "name": "Lulo",
+    "brief": "Your DeFi Savings Account.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/lulo.jpg",
+    "website": "https://lulo.fi/",
+    "x": "https://x.com/uselulo",
+    "github": "https://github.com/lulo-labs",
+    "discord": "https://discord.gg/lulo",
+    "hidden": false
   },
   {
     "date": "2025-01-16",
@@ -77,17 +62,8 @@
     "x": "https://x.com/DeFiCarrot",
     "github": "https://github.com/DeFi-Carrot",
     "telegram": "https://t.me/deficarrot",
-    "discord": "https://discord.gg/defi-carrot"
-  },
-  {
-    "date": "2024-05-22",
-    "name": "Marginfi",
-    "brief": "The liquidity layer for Solana.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/marginfi.jpg",
-    "website": "https://www.marginfi.com/",
-    "x": "https://x.com/marginfi",
-    "github": "https://github.com/mrgnlabs/",
-    "discord": "https://discord.gg/mrgn"
+    "discord": "https://discord.gg/defi-carrot",
+    "hidden": false
   },
   {
     "date": "2024-05-22",
@@ -97,7 +73,8 @@
     "website": "https://kamino.finance/",
     "x": "https://x.com/KaminoFinance",
     "github": "https://github.com/Kamino-Finance",
-    "discord": "https://discord.com/invite/kaminofinance"
+    "discord": "https://discord.com/invite/kaminofinance",
+    "hidden": false
   },
   {
     "date": "2024-05-23",
@@ -107,16 +84,40 @@
     "website": "https://alldomains.id/",
     "x": "https://x.com/AllDomains_",
     "github": "https://github.com/onsol-labs",
-    "discord": "https://discord.gg/Rcrqhs7Bja"
+    "discord": "https://discord.gg/Rcrqhs7Bja",
+    "hidden": false
+  },
+  {
+    "date": "2024-05-22",
+    "name": "Marginfi",
+    "brief": "The liquidity layer for Solana.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/marginfi.jpg",
+    "website": "https://www.marginfi.com/",
+    "x": "https://x.com/marginfi",
+    "github": "https://github.com/mrgnlabs/",
+    "discord": "https://discord.gg/mrgn",
+    "hidden": false
+  },
+  {
+    "date": "2024-05-22",
+    "name": "GooseFX",
+    "brief": "A Complete DeFi Experience.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/goosefx.jpg",
+    "website": "https://goosefx.io/",
+    "x": "https://x.com/GooseFX1",
+    "github": "https://github.com/GooseFX1",
+    "discord": "https://discord.com/invite/cDEPXpY26q",
+    "hidden": false
   },
   {
     "date": "2024-05-23",
-    "name": "Lulo",
-    "brief": "Your DeFi Savings Account.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/lulo.jpg",
-    "website": "https://lulo.fi/",
-    "x": "https://x.com/uselulo",
-    "github": "https://github.com/lulo-labs",
-    "discord": "https://discord.gg/lulo"
+    "name": "Symmetry",
+    "brief": "On-chain asset management infrastructure",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/symmetry.jpeg",
+    "website": "https://symmetry.fi/",
+    "x": "https://x.com/symmetry_fi",
+    "github": "https://github.com/symmetry-protocol",
+    "discord": "https://discord.symmetry.fi",
+    "hidden": false
   }
 ]
