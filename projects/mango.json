@@ -1,6 +1,7 @@
 {
   "date": "2024-05-22",
   "name": "Mango Markets",
+  "hidden": true,
   "brief": "Lend, borrow, swap, and leverage-trade crypto assets - permissionless and all on-chain.",
   "img": "/img/mango.jpg",
   "website": "https://mango.markets/",

@@ -19,6 +19,7 @@ const projectSchema = Joi.object({
   github: Joi.string().optional(),
   telegram: Joi.string().optional(),
   discord: Joi.string().optional(),
+  hidden: Joi.boolean().optional().default(false),
 });
 
 console.log();
@@ -39,6 +40,12 @@ fs.readdirSync(IN_DIR).forEach((file, idx) => {
       });
       if (validated.error) throw validated.error;
       else if (validated.warning) throw validated.warning;
+
+      // Skip projects that are marked 'hidden'.
+      if (validated.value.hidden) {
+        console.log(`Skipping hidden project: ${validated.value.name}`);
+        return;
+      }
 
       // Step 3: The json has been validated. Transform the `img` path into a complete url.
       validated.value.img = path.join(
