@@ -11,35 +11,14 @@
     "hidden": false
   },
   {
-    "date": "2024-05-24",
-    "name": "Rain.fi",
-    "brief": "Borrow, lend and long tokens and NFTs in the simplest way. No price liquidations.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/rainfi.jpg",
-    "website": "https://rain.fi/",
-    "x": "https://x.com/RainFi_",
-    "discord": "https://discord.gg/rainfi",
-    "hidden": false
-  },
-  {
     "date": "2024-05-22",
-    "name": "Hubble Protocol",
-    "brief": "Borrowing platform that issues the USDH stablecoin against your crypto assets.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/hubble.jpg",
-    "website": "https://hubbleprotocol.io/",
-    "x": "https://x.com/hubbleprotocol",
-    "github": "https://github.com/hubbleprotocol/",
-    "discord": "https://discord.gg/MGujjftKTY",
-    "hidden": false
-  },
-  {
-    "date": "2024-05-20",
-    "name": "Drift Protocol",
-    "brief": "Drift brings on-chain, cross-margined perpetual swaps to Solana.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/drift.jpg",
-    "website": "https://www.drift.trade",
-    "x": "https://x.com/driftprotocol",
-    "github": "https://github.com/drift-labs",
-    "discord": "https://discord.com/invite/fMcZBH8ErM",
+    "name": "GooseFX",
+    "brief": "A Complete DeFi Experience.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/goosefx.jpg",
+    "website": "https://goosefx.io/",
+    "x": "https://x.com/GooseFX1",
+    "github": "https://github.com/GooseFX1",
+    "discord": "https://discord.com/invite/cDEPXpY26q",
     "hidden": false
   },
   {
@@ -67,13 +46,13 @@
   },
   {
     "date": "2024-05-22",
-    "name": "Kamino",
-    "brief": "Automated concentrated liquidity (CLMM) position management.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/kamino.jpg",
-    "website": "https://kamino.finance/",
-    "x": "https://x.com/KaminoFinance",
-    "github": "https://github.com/Kamino-Finance",
-    "discord": "https://discord.com/invite/kaminofinance",
+    "name": "Marginfi",
+    "brief": "The liquidity layer for Solana.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/marginfi.jpg",
+    "website": "https://www.marginfi.com/",
+    "x": "https://x.com/marginfi",
+    "github": "https://github.com/mrgnlabs/",
+    "discord": "https://discord.gg/mrgn",
     "hidden": false
   },
   {
@@ -88,25 +67,46 @@
     "hidden": false
   },
   {
-    "date": "2024-05-22",
-    "name": "Marginfi",
-    "brief": "The liquidity layer for Solana.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/marginfi.jpg",
-    "website": "https://www.marginfi.com/",
-    "x": "https://x.com/marginfi",
-    "github": "https://github.com/mrgnlabs/",
-    "discord": "https://discord.gg/mrgn",
+    "date": "2024-05-20",
+    "name": "Drift Protocol",
+    "brief": "Drift brings on-chain, cross-margined perpetual swaps to Solana.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/drift.jpg",
+    "website": "https://www.drift.trade",
+    "x": "https://x.com/driftprotocol",
+    "github": "https://github.com/drift-labs",
+    "discord": "https://discord.com/invite/fMcZBH8ErM",
+    "hidden": false
+  },
+  {
+    "date": "2025-09-08",
+    "name": "Realms",
+    "brief": "The Home of Solana DAOs. DAO creation, voting, and treasury management all in one fully onchain, open source product.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/realms.jpeg",
+    "website": "https://realms.today/",
+    "x": "https://x.com/realmsdaos",
+    "github": "https://github.com/Mythic-Project",
+    "discord": "https://discord.com/invite/realmsdaos",
     "hidden": false
   },
   {
     "date": "2024-05-22",
-    "name": "GooseFX",
-    "brief": "A Complete DeFi Experience.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/goosefx.jpg",
-    "website": "https://goosefx.io/",
-    "x": "https://x.com/GooseFX1",
-    "github": "https://github.com/GooseFX1",
-    "discord": "https://discord.com/invite/cDEPXpY26q",
+    "name": "Kamino",
+    "brief": "Automated concentrated liquidity (CLMM) position management.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/kamino.jpg",
+    "website": "https://kamino.finance/",
+    "x": "https://x.com/KaminoFinance",
+    "github": "https://github.com/Kamino-Finance",
+    "discord": "https://discord.com/invite/kaminofinance",
+    "hidden": false
+  },
+  {
+    "date": "2024-05-24",
+    "name": "Rain.fi",
+    "brief": "Borrow, lend and long tokens and NFTs in the simplest way. No price liquidations.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/rainfi.jpg",
+    "website": "https://rain.fi/",
+    "x": "https://x.com/RainFi_",
+    "discord": "https://discord.gg/rainfi",
     "hidden": false
   },
   {
@@ -118,6 +118,17 @@
     "x": "https://x.com/symmetry_fi",
     "github": "https://github.com/symmetry-protocol",
     "discord": "https://discord.symmetry.fi",
+    "hidden": false
+  },
+  {
+    "date": "2024-05-22",
+    "name": "Hubble Protocol",
+    "brief": "Borrowing platform that issues the USDH stablecoin against your crypto assets.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/hubble.jpg",
+    "website": "https://hubbleprotocol.io/",
+    "x": "https://x.com/hubbleprotocol",
+    "github": "https://github.com/hubbleprotocol/",
+    "discord": "https://discord.gg/MGujjftKTY",
     "hidden": false
   }
 ]
