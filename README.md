@@ -49,7 +49,7 @@ You can contribute in 2 ways:
   // OPTIONAL: URL to the project's Telegram channel.
   "telegram": "https://telegram.me/switchboardxyz",
   // OPTIONAL: URL to the project's Discord channel invite.
-  "discord": "https://discord.gg/switchboardxyz"
+  "discord": "https://discord.gg/TJAv6ZYvPC"
 }
 ```
 
