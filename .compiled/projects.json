@@ -1,13 +1,13 @@
 [
   {
-    "date": "2024-09-26",
-    "name": "Save",
-    "brief": "Solana's permissionless savings account.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/save.jpg",
-    "website": "https://save.finance",
-    "x": "https://x.com/solendprotocol",
-    "github": "https://github.com/solendprotocol",
-    "discord": "https://discord.gg/solend",
+    "date": "2024-05-23",
+    "name": "Lulo",
+    "brief": "Your DeFi Savings Account.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/lulo.jpg",
+    "website": "https://lulo.fi/",
+    "x": "https://x.com/uselulo",
+    "github": "https://github.com/lulo-labs",
+    "discord": "https://discord.gg/lulo",
     "hidden": false
   },
   {
@@ -22,6 +22,17 @@
     "hidden": false
   },
   {
+    "date": "2024-09-26",
+    "name": "Save",
+    "brief": "Solana's permissionless savings account.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/save.jpg",
+    "website": "https://save.finance",
+    "x": "https://x.com/solendprotocol",
+    "github": "https://github.com/solendprotocol",
+    "discord": "https://discord.gg/solend",
+    "hidden": false
+  },
+  {
     "date": "2025-09-08",
     "name": "Realms",
     "brief": "The Home of Solana DAOs. DAO creation, voting, and treasury management all in one fully onchain, open source product.",
@@ -33,37 +44,15 @@
     "hidden": false
   },
   {
-    "date": "2025-01-16",
-    "name": "Carrot",
-    "brief": "A liquid yield token that maximizes stablecoin yield, while managing risk across Solana's DeFi ecosystem.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/carrot.jpg",
-    "website": "https://use.deficarrot.com/",
-    "x": "https://x.com/DeFiCarrot",
-    "github": "https://github.com/DeFi-Carrot",
-    "telegram": "https://t.me/deficarrot",
-    "discord": "https://discord.gg/defi-carrot",
-    "hidden": false
-  },
-  {
-    "date": "2024-05-23",
-    "name": "AllDomains",
-    "brief": "The web3 identity asset layer to create and trade web3 domains",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/alldomains.jpg",
-    "website": "https://alldomains.id/",
-    "x": "https://x.com/AllDomains_",
-    "github": "https://github.com/onsol-labs",
-    "discord": "https://discord.gg/Rcrqhs7Bja",
-    "hidden": false
-  },
-  {
-    "date": "2024-05-22",
-    "name": "GooseFX",
-    "brief": "A Complete DeFi Experience.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/goosefx.jpg",
-    "website": "https://goosefx.io/",
-    "x": "https://x.com/GooseFX1",
-    "github": "https://github.com/GooseFX1",
-    "discord": "https://discord.com/invite/cDEPXpY26q",
+    "date": "2026-07-31",
+    "name": "DiversiFi",
+    "brief": "A better way to hold crypto with automatic portfolio rebalancing.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/diversifi.jpg",
+    "website": "https://diversifi.trade/",
+    "x": "https://x.com/useDiversiFi",
+    "github": "https://github.com/SolutioFi-io",
+    "telegram": "https://t.me/UseDiversiFi",
+    "discord": "https://discord.com/invite/diversifi",
     "hidden": false
   },
   {
@@ -79,6 +68,17 @@
   },
   {
     "date": "2024-05-22",
+    "name": "Marginfi",
+    "brief": "The liquidity layer for Solana.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/marginfi.jpg",
+    "website": "https://www.marginfi.com/",
+    "x": "https://x.com/marginfi",
+    "github": "https://github.com/mrgnlabs/",
+    "discord": "https://discord.gg/mrgn",
+    "hidden": false
+  },
+  {
+    "date": "2024-05-22",
     "name": "Hubble Protocol",
     "brief": "Borrowing platform that issues the USDH stablecoin against your crypto assets.",
     "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/hubble.jpg",
@@ -86,16 +86,6 @@
     "x": "https://x.com/hubbleprotocol",
     "github": "https://github.com/hubbleprotocol/",
     "discord": "https://discord.gg/MGujjftKTY",
-    "hidden": false
-  },
-  {
-    "date": "2024-05-24",
-    "name": "Rain.fi",
-    "brief": "Borrow, lend and long tokens and NFTs in the simplest way. No price liquidations.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/rainfi.jpg",
-    "website": "https://rain.fi/",
-    "x": "https://x.com/RainFi_",
-    "discord": "https://discord.gg/rainfi",
     "hidden": false
   },
   {
@@ -110,25 +100,47 @@
     "hidden": false
   },
   {
-    "date": "2024-05-23",
-    "name": "Lulo",
-    "brief": "Your DeFi Savings Account.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/lulo.jpg",
-    "website": "https://lulo.fi/",
-    "x": "https://x.com/uselulo",
-    "github": "https://github.com/lulo-labs",
-    "discord": "https://discord.gg/lulo",
+    "date": "2024-05-22",
+    "name": "GooseFX",
+    "brief": "A Complete DeFi Experience.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/goosefx.jpg",
+    "website": "https://goosefx.io/",
+    "x": "https://x.com/GooseFX1",
+    "github": "https://github.com/GooseFX1",
+    "discord": "https://discord.com/invite/cDEPXpY26q",
     "hidden": false
   },
   {
-    "date": "2024-05-22",
-    "name": "Marginfi",
-    "brief": "The liquidity layer for Solana.",
-    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/marginfi.jpg",
-    "website": "https://www.marginfi.com/",
-    "x": "https://x.com/marginfi",
-    "github": "https://github.com/mrgnlabs/",
-    "discord": "https://discord.gg/mrgn",
+    "date": "2024-05-23",
+    "name": "AllDomains",
+    "brief": "The web3 identity asset layer to create and trade web3 domains",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/alldomains.jpg",
+    "website": "https://alldomains.id/",
+    "x": "https://x.com/AllDomains_",
+    "github": "https://github.com/onsol-labs",
+    "discord": "https://discord.gg/Rcrqhs7Bja",
+    "hidden": false
+  },
+  {
+    "date": "2025-01-16",
+    "name": "Carrot",
+    "brief": "A liquid yield token that maximizes stablecoin yield, while managing risk across Solana's DeFi ecosystem.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/carrot.jpg",
+    "website": "https://use.deficarrot.com/",
+    "x": "https://x.com/DeFiCarrot",
+    "github": "https://github.com/DeFi-Carrot",
+    "telegram": "https://t.me/deficarrot",
+    "discord": "https://discord.gg/defi-carrot",
+    "hidden": false
+  },
+  {
+    "date": "2024-05-24",
+    "name": "Rain.fi",
+    "brief": "Borrow, lend and long tokens and NFTs in the simplest way. No price liquidations.",
+    "img": "https:/raw.githubusercontent.com/switchboard-xyz/ecosystem/main/img/rainfi.jpg",
+    "website": "https://rain.fi/",
+    "x": "https://x.com/RainFi_",
+    "discord": "https://discord.gg/rainfi",
     "hidden": false
   }
 ]
