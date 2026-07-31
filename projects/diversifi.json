@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
   "name": "DiversiFi",
-  "brief": "A non-custodial portfolio protocol on Solana that automatically rebalances user-defined vaults using onchain rules.",
+  "brief": "A better way to hold crypto with automatic portfolio rebalancing.",
   "img": "/img/diversifi.jpg",
   "website": "https://diversifi.trade/",
   "x": "https://x.com/useDiversiFi",
